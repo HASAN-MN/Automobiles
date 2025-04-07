@@ -11,10 +11,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose backend FastAPI port
-EXPOSE 8000
-
-# Expose frontend Streamlit port
-EXPOSE 8501
+EXPOSE 8000 8501
 
 # Use process manager to run both backend and frontend
-CMD ["sh", "-c", "uvicorn backend.main:app --host 0.0.0.0 --port 8000 & streamlit run frontend/app.py --server.port=8501 --server.address=0.0.0.0"]
+CMD ["sh", "-c", "uvicorn api.main:app & streamlit run app.py --server.port=8501 --server.address=127.0.0.1"]

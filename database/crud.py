@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from backend.models.models import VehicleListing  # Updated import
+from api.models.models import VehicleListing  # Updated import
 
 # Get vehicle listings by search criteria
 def get_vehicle_listings_by_criteria(db: Session, year: int, make: str, model: str):

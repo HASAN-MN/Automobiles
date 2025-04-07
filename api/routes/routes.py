@@ -2,8 +2,8 @@ from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 from database.config import get_db
 from database.crud import get_vehicle_listings_by_criteria, calculate_average_price
-from schemas.response import VehicleSearchResponse
-from schemas.request import VehicleSearchRequest
+from api.schemas.response import VehicleSearchResponse
+from api.schemas.request import VehicleSearchRequest
 
 router = APIRouter()
 
@@ -15,5 +15,5 @@ def search_vehicles(request: VehicleSearchRequest, db: Session = Depends(get_db)
 
     return {
         "average_price": average_price,
-        "listings": vehicles[:100]  # Limit response to 100 listings
+        "listings": vehicles[:100]
     }

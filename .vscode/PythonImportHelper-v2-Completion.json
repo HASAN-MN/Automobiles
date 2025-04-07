@@ -1,0 +1,712 @@
+[
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database.config",
+        "description": "database.config",
+        "isExtraImport": true,
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database.config",
+        "description": "database.config",
+        "isExtraImport": true,
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "importPath": "database.config",
+        "description": "database.config",
+        "isExtraImport": true,
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_vehicle_listings_by_criteria",
+        "importPath": "database.crud",
+        "description": "database.crud",
+        "isExtraImport": true,
+        "detail": "database.crud",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_price",
+        "importPath": "database.crud",
+        "description": "database.crud",
+        "isExtraImport": true,
+        "detail": "database.crud",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleSearchResponse",
+        "importPath": "api.schemas.response",
+        "description": "api.schemas.response",
+        "isExtraImport": true,
+        "detail": "api.schemas.response",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleSearchRequest",
+        "importPath": "api.schemas.request",
+        "description": "api.schemas.request",
+        "isExtraImport": true,
+        "detail": "api.schemas.request",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.routes.routes",
+        "description": "api.routes.routes",
+        "isExtraImport": true,
+        "detail": "api.routes.routes",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleListing",
+        "importPath": "api.models.models",
+        "description": "api.models.models",
+        "isExtraImport": true,
+        "detail": "api.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "Ridge",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "SVR",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "isExtraImport": true,
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "isExtraImport": true,
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "AutomobileML",
+        "importPath": "ml.model",
+        "description": "ml.model",
+        "isExtraImport": true,
+        "detail": "ml.model",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleListing",
+        "kind": 6,
+        "importPath": "api.models.models",
+        "description": "api.models.models",
+        "peekOfCode": "class VehicleListing(Base):\n    __tablename__ = \"vehicles\"\n    id = Column(Integer, primary_key=True, index=True)\n    vin = Column(String(17), index=True)\n    year = Column(Integer, index=True)\n    make = Column(String(50), index=True)\n    model = Column(String(50), index=True)\n    trim = Column(String(100), nullable=True)\n    dealer_name = Column(String(100))\n    dealer_street = Column(String(100))",
+        "detail": "api.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "search_vehicles",
+        "kind": 2,
+        "importPath": "api.routes.routes",
+        "description": "api.routes.routes",
+        "peekOfCode": "def search_vehicles(request: VehicleSearchRequest, db: Session = Depends(get_db)):\n    vehicles = get_vehicle_listings_by_criteria(db, year=request.year, make=request.make, model=request.model)\n    average_price = calculate_average_price(vehicles, mileage=request.mileage)\n    return {\n        \"average_price\": average_price,\n        \"listings\": vehicles[:100]\n    }",
+        "detail": "api.routes.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routes.routes",
+        "description": "api.routes.routes",
+        "peekOfCode": "router = APIRouter()\n# Search endpoint\n@router.post(\"/search\", response_model=VehicleSearchResponse)\ndef search_vehicles(request: VehicleSearchRequest, db: Session = Depends(get_db)):\n    vehicles = get_vehicle_listings_by_criteria(db, year=request.year, make=request.make, model=request.model)\n    average_price = calculate_average_price(vehicles, mileage=request.mileage)\n    return {\n        \"average_price\": average_price,\n        \"listings\": vehicles[:100]\n    }",
+        "detail": "api.routes.routes",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleSearchRequest",
+        "kind": 6,
+        "importPath": "api.schemas.request",
+        "description": "api.schemas.request",
+        "peekOfCode": "class VehicleSearchRequest(BaseModel):\n    year: int\n    make: str\n    model: str\n    mileage: Optional[float]",
+        "detail": "api.schemas.request",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleListingResponse",
+        "kind": 6,
+        "importPath": "api.schemas.response",
+        "description": "api.schemas.response",
+        "peekOfCode": "class VehicleListingResponse(BaseModel):\n    vin: str\n    year: int\n    make: str\n    model: str\n    trim: Optional[str]\n    dealer_name: str\n    dealer_city: str\n    dealer_state: str\n    listing_price: Optional[float]",
+        "detail": "api.schemas.response",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleSearchResponse",
+        "kind": 6,
+        "importPath": "api.schemas.response",
+        "description": "api.schemas.response",
+        "peekOfCode": "class VehicleSearchResponse(BaseModel):\n    average_price: Optional[float]\n    listings: List[VehicleListingResponse]",
+        "detail": "api.schemas.response",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_txt_file",
+        "kind": 2,
+        "importPath": "api.data_preprocess",
+        "description": "api.data_preprocess",
+        "peekOfCode": "def preprocess_txt_file():\n    file_path = \"inventory.txt\"  # File path for input data\n    chunk_size = 100000\n    filtered_data = []\n    for chunk in pd.read_csv(file_path, delimiter=\"|\", chunksize=chunk_size, low_memory=False):\n        chunk['listing_price'] = pd.to_numeric(chunk['listing_price'], errors='coerce').fillna(0)\n        filtered_chunk = chunk[\n            (chunk['listing_price'] > 20000) & \n            (chunk['driven_wheels'].isin(['FWD', 'AWD']))\n        ]",
+        "detail": "api.data_preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "api.data_preprocess",
+        "description": "api.data_preprocess",
+        "peekOfCode": "DATABASE_URL = f\"mysql+pymysql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}\"\nengine = create_engine(DATABASE_URL)\ndef preprocess_txt_file():\n    file_path = \"inventory.txt\"  # File path for input data\n    chunk_size = 100000\n    filtered_data = []\n    for chunk in pd.read_csv(file_path, delimiter=\"|\", chunksize=chunk_size, low_memory=False):\n        chunk['listing_price'] = pd.to_numeric(chunk['listing_price'], errors='coerce').fillna(0)\n        filtered_chunk = chunk[\n            (chunk['listing_price'] > 20000) & ",
+        "detail": "api.data_preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api.data_preprocess",
+        "description": "api.data_preprocess",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\ndef preprocess_txt_file():\n    file_path = \"inventory.txt\"  # File path for input data\n    chunk_size = 100000\n    filtered_data = []\n    for chunk in pd.read_csv(file_path, delimiter=\"|\", chunksize=chunk_size, low_memory=False):\n        chunk['listing_price'] = pd.to_numeric(chunk['listing_price'], errors='coerce').fillna(0)\n        filtered_chunk = chunk[\n            (chunk['listing_price'] > 20000) & \n            (chunk['driven_wheels'].isin(['FWD', 'AWD']))",
+        "detail": "api.data_preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the Automobile Market Analysis API\"}",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "app = FastAPI()\norigins = [\n    \"http://localhost:8501\",\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "origins = [\n    \"http://localhost:8501\",\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_database",
+        "kind": 2,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "def create_database():\n    from api.models.models import VehicleListing\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "Base = declarative_base()\nDATABASE_URL = f\"mysql+pymysql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef create_database():\n    from api.models.models import VehicleListing\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "DATABASE_URL = f\"mysql+pymysql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef create_database():\n    from api.models.models import VehicleListing\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef create_database():\n    from api.models.models import VehicleListing\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "database.config",
+        "description": "database.config",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef create_database():\n    from api.models.models import VehicleListing\n    Base.metadata.create_all(bind=engine)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_vehicle_listings_by_criteria",
+        "kind": 2,
+        "importPath": "database.crud",
+        "description": "database.crud",
+        "peekOfCode": "def get_vehicle_listings_by_criteria(db: Session, year: int, make: str, model: str):\n    return db.query(VehicleListing).filter(\n        VehicleListing.year == year,\n        VehicleListing.make == make,\n        VehicleListing.model == model\n    ).all()\n# Calculate average price of vehicle listings\ndef calculate_average_price(vehicles: list, mileage: float = None):\n    if not vehicles:\n        return None",
+        "detail": "database.crud",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_price",
+        "kind": 2,
+        "importPath": "database.crud",
+        "description": "database.crud",
+        "peekOfCode": "def calculate_average_price(vehicles: list, mileage: float = None):\n    if not vehicles:\n        return None\n    total_price = sum(vehicle.listing_price for vehicle in vehicles if vehicle.listing_price is not None)\n    count = len([vehicle for vehicle in vehicles if vehicle.listing_price is not None])\n    if count == 0:\n        return None\n    average_price = total_price / count\n    if mileage:\n        adjustment_factor = 0.05  # Example adjustment factor",
+        "detail": "database.crud",
+        "documentation": {}
+    },
+    {
+        "label": "AutomobileML",
+        "kind": 6,
+        "importPath": "ml.model",
+        "description": "ml.model",
+        "peekOfCode": "class AutomobileML:\n    def __init__(self):\n        self.models = {\n            \"Linear Regression\": LinearRegression(),\n            \"Ridge Regression\": Ridge(alpha=1.0),\n            \"SVM Regression\": SVR(kernel='rbf', C=1.0, epsilon=0.1)\n        }\n        self.results = {}\n    def train_and_evaluate(self):\n        data = load_data()",
+        "detail": "ml.model",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "peekOfCode": "def load_data():\n    query = \"SELECT year, make, model, listing_price, listing_mileage FROM vehicles WHERE listing_price IS NOT NULL\"\n    data = pd.read_sql(query, con=engine)\n    return data\ndef preprocess_data(data):\n    data = data.dropna(subset=[\"listing_price\", \"listing_mileage\"])\n    data = pd.get_dummies(data, columns=[\"make\", \"model\"], drop_first=True)\n    X = data.drop(columns=[\"listing_price\"])\n    y = data[\"listing_price\"]\n    return X, y",
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "kind": 2,
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "peekOfCode": "def preprocess_data(data):\n    data = data.dropna(subset=[\"listing_price\", \"listing_mileage\"])\n    data = pd.get_dummies(data, columns=[\"make\", \"model\"], drop_first=True)\n    X = data.drop(columns=[\"listing_price\"])\n    y = data[\"listing_price\"]\n    return X, y",
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "peekOfCode": "DATABASE_URL = f\"mysql+pymysql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}\"\nengine = create_engine(DATABASE_URL)\ndef load_data():\n    query = \"SELECT year, make, model, listing_price, listing_mileage FROM vehicles WHERE listing_price IS NOT NULL\"\n    data = pd.read_sql(query, con=engine)\n    return data\ndef preprocess_data(data):\n    data = data.dropna(subset=[\"listing_price\", \"listing_mileage\"])\n    data = pd.get_dummies(data, columns=[\"make\", \"model\"], drop_first=True)\n    X = data.drop(columns=[\"listing_price\"])",
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "ml.preprocess",
+        "description": "ml.preprocess",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\ndef load_data():\n    query = \"SELECT year, make, model, listing_price, listing_mileage FROM vehicles WHERE listing_price IS NOT NULL\"\n    data = pd.read_sql(query, con=engine)\n    return data\ndef preprocess_data(data):\n    data = data.dropna(subset=[\"listing_price\", \"listing_mileage\"])\n    data = pd.get_dummies(data, columns=[\"make\", \"model\"], drop_first=True)\n    X = data.drop(columns=[\"listing_price\"])\n    y = data[\"listing_price\"]",
+        "detail": "ml.preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "FASTAPI_URL",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "FASTAPI_URL = \"http://localhost:8000/search\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nst.title(\"Automobile Market Analysis\")\nyear = st.sidebar.number_input(\"Year\", min_value=1900, max_value=2050, value=2015, step=1)\nmake = st.sidebar.text_input(\"Make\", value=\"Toyota\")\nmodel = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nst.title(\"Automobile Market Analysis\")\nyear = st.sidebar.number_input(\"Year\", min_value=1900, max_value=2050, value=2015, step=1)\nmake = st.sidebar.text_input(\"Make\", value=\"Toyota\")\nmodel = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nst.title(\"Automobile Market Analysis\")\nyear = st.sidebar.number_input(\"Year\", min_value=1900, max_value=2050, value=2015, step=1)\nmake = st.sidebar.text_input(\"Make\", value=\"Toyota\")\nmodel = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)\n        st.success(\"TXT file processed and data stored in MySQL database.\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "year = st.sidebar.number_input(\"Year\", min_value=1900, max_value=2050, value=2015, step=1)\nmake = st.sidebar.text_input(\"Make\", value=\"Toyota\")\nmodel = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)\n        st.success(\"TXT file processed and data stored in MySQL database.\")\n        st.text(result.stdout)\n    except Exception as e:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "make",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "make = st.sidebar.text_input(\"Make\", value=\"Toyota\")\nmodel = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)\n        st.success(\"TXT file processed and data stored in MySQL database.\")\n        st.text(result.stdout)\n    except Exception as e:\n        st.error(f\"Error while processing TXT file: {e}\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "model = st.sidebar.text_input(\"Model\", value=\"Camry\")\nmileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)\n        st.success(\"TXT file processed and data stored in MySQL database.\")\n        st.text(result.stdout)\n    except Exception as e:\n        st.error(f\"Error while processing TXT file: {e}\")\nif st.sidebar.button(\"Search\"):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "mileage",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "mileage = st.sidebar.number_input(\"Mileage (optional)\", min_value=0, value=0, step=100)\nif st.sidebar.button(\"Preprocess TXT File\"):\n    try:\n        result = subprocess.run([\"python\", \"Backend/data_preprocess.py\"], capture_output=True, text=True)\n        st.success(\"TXT file processed and data stored in MySQL database.\")\n        st.text(result.stdout)\n    except Exception as e:\n        st.error(f\"Error while processing TXT file: {e}\")\nif st.sidebar.button(\"Search\"):\n    st.write(\"### Vehicle Listings and Market Price\")",
+        "detail": "app",
+        "documentation": {}
+    }
+]
