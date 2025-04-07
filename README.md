@@ -32,3 +32,7 @@ docker build -t project .
 docker run -t project
 
 ### FastAPI 
+uvicorn api.main:app
+
+### Frontend
+streamlit run app.py --server.port=8501 --server.address=127.0.0.1
