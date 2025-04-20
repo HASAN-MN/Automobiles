@@ -25,11 +25,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-### Build the Docker image
-docker build -t project .
 
-### Run the docker container
-docker run -t project
 
 ### FastAPI 
 uvicorn api.main:app
