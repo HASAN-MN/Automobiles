@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 
 
 ### FastAPI 
-uvicorn api.main:app
+uvicorn api.main:app --reload --host 127.0.0.1 --port 8000
 
 ### Frontend
 streamlit run app.py --server.port=8501 --server.address=127.0.0.1
